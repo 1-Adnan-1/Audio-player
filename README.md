@@ -3,11 +3,11 @@ Bu projede, HTML, CSS ve JavaScript kullanarak geliştirilmiş bir müzik çalar
 Uygulama, temel müzik çalma özelliklerinin yanı sıra kullanıcı dostu bir arayüz ve farklı arka plan renk modlarına sahip.
 
 ## 🚀 Özellikler
--**Müzik Çalma**: Seçilen müzik çalınır.
--**Müzik Değiştirme**: Bir müzik dosyasını seçerek çalma listesinde geçiş yapabilirsiniz.
--**Başa Sarma**: Müzik çalarken başa sarma özelliği bulunur.
--**Karışık Dinleme**: Müzikleri karışık sırayla çalma özelliği vardır.
--**Renk Modu**: İki farklı arka plan rengi modu mevcuttur. Koyu ve açık temalar arasında geçiş yapabilirsiniz.
+- **Müzik Çalma**: Seçilen müzik çalınır.
+- **Müzik Değiştirme**: Bir müzik dosyasını seçerek çalma listesinde geçiş yapabilirsiniz.
+- **Başa Sarma**: Müzik çalarken başa sarma özelliği bulunur.
+- **Karışık Dinleme**: Müzikleri karışık sırayla çalma özelliği vardır.
+- **Renk Modu**: İki farklı arka plan rengi modu mevcuttur. Koyu ve açık temalar arasında geçiş yapabilirsiniz.
 
 ## 🛠️ Teknolojiler
 - HTML5
